@@ -17,7 +17,7 @@ Il prof è in vena di regali, ed è disposto ad offrire il caffè allo studente 
 ---
 
 Gli studenti più estroversi, però, non sono contenti. Anche loro vorrebbero iniziare l'anno scolastico con un caffè offerto dal prof.
-Perchè scontentarli? Il prof fornisce tre monete ad altrettanti studenti e li lascia liberi di andare a chiedere il proprio caffè.
+Perché scontentarli? Il prof fornisce tre monete ad altrettanti studenti e li lascia liberi di andare a chiedere il proprio caffè.
 
 > Osservazione 3: quanto tempo impiega la barista a preparare un caffè?
 > Osservazione 4: quanto tempo impiega il primo studente ad essere servito? Quanto impiegheranno il secondo ed il terzo?
@@ -29,7 +29,7 @@ Attenzione, arriva il preside! Anche lui vuole un caffè! Che si fa? Ovviamente 
 > Osservazione 7: è giusto aver dato la precedenza al preside? 
 > Osservazione 8: cosa fa la barista dopo aver servito l'ultimo caffè?
 
-Ora però si è creata un ingiustizia: alcuni hanno avuto il loro caffè e alcuni no! Purtroppo è ora di rientrare in classe, non c'è tempo a sufficienza perchè tutti gli studenti abbiano il proprio caffè. Pazienza, sarà per la prossima volta.
+Ora però si è creata un ingiustizia: alcuni hanno avuto il loro caffè e alcuni no! Purtroppo è ora di rientrare in classe, non c'è tempo a sufficienza perché tutti gli studenti abbiano il proprio caffè. Pazienza, sarà per la prossima volta.
 
 > Osservazione 9: Come il bar della scuola avrebbe dovuto gestire la situazione di un'intera classe che vuole il proprio caffè, in modo da rendere più basso possibile il tempo di attesa?
 

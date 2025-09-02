@@ -27,5 +27,5 @@ Gli studenti rappresentano gli *host* su cui il professore vuole raccogliere inf
 
 Quali informazioni sono fornite dall'utilizzo di questa applicazione?
 
-1) se l'host destinatario è raggiungibile. Se entro un certo tempo il pacchetto dati invato non viene ricevuto, l'applicazione ping indica un errore di rete (*timeout*: tempo di attesa scaduto!)
+1) se l'host destinatario è raggiungibile. Se entro un certo tempo il pacchetto dati inviato non viene ricevuto, l'applicazione ping indica un errore di rete (*timeout*: tempo di attesa scaduto!)
 2) la *latenza* della comunicazione: quanto tempo viene impiegato per l'invio e la ricezione del pacchetto dati. Una rete più veloce ha latenza più bassa, una rete più lenta presenta valori di latenza più alti. 

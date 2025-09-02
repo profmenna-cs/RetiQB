@@ -62,7 +62,7 @@ Il server da noi rappresentato potrebbe essere considerato indesiderato e la com
 
 I gruppi con bigliettino hanno simulato l'invio usando un protocollo orientato alla connessione. Se il bigliettino è stato compilato e restituito, siamo certi che l'invio ha avuto successo. Altrimenti, non siamo sicuri che l'invio sia stato eseguito correttamente. Questo è il comportamento del protocollo *TCP*, che garantisce al mittente la completezza e correttezza della spedizione.
 Se la risposta (*ACK*) non arriva entro un certo tempo, la spedizione va in *Timeout*: il sistema di rete smette di attendere e programma l'invio di una nuova copia del pacchetto.
-Questo protocollo viene usato nelle applicazione di rete che richiedono che un messaggio sia inviato in modo corretto e completo: ad esempio nella comunicazione WWW, email, sistemi di messaggistica istantane.
+Questo protocollo viene usato nelle applicazione di rete che richiedono che un messaggio sia inviato in modo corretto e completo: ad esempio nella comunicazione WWW, email, sistemi di messaggistica istantanea.
 
 I gruppi senza biglietto hanno invece simulato l'invio usando un protocollo orientato alla velocità di spedizione, come l'*UDP*. Non è stato necessario attendere la compilazione del bigliettino e la sua restituzione, ma non abbiamo certezza che la spedizione sia avvenuta correttamente.
 Questo comportamento è utile quando la completezza della comunicazione non è richiesta, ma la velocità è un requisito importante: ad esempio, nell'invio di contenuti multimediali quali audio e video in streaming. 
