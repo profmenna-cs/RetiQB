@@ -2,7 +2,7 @@
 
 *keywords: architettura client server*
 
-Primi giorni di scuola, l'aria è ancora calda, il ricoro dell'estate ancora vivo... perchè stare seduti in un aula scolastica? Meglio una bella passeggiata con i propri compagni di classe per i corridoi della scuola... e dove andare, per trovare uno spazio in cui chiacchierare liberamente, senza timore di disturbare le lezioni che si svolgono in altre, sfortunate classi? Ovviamente al bar della scuola.
+Primi giorni di scuola, l'aria è ancora calda, il ricordo dell'estate ancora vivo... perchè stare seduti in un'aula scolastica? Meglio una bella passeggiata con i propri compagni di classe per i corridoi della scuola... e dove andare, per trovare uno spazio in cui chiacchierare liberamente, senza timore di disturbare le lezioni che si svolgono in altre, sfortunate classi? Ovviamente al bar della scuola.
 
 Ci dirigiamo lì in silenzio, sperando di non incontrare il Dirigente dietro l'angolo, o di non innervosire qualche sorvegliante annoiata. 
 
@@ -20,20 +20,20 @@ Gli studenti più estroversi, però, non sono contenti. Anche loro vorrebbero in
 Perchè scontentarli? Il prof fornisce tre monete ad altrettanti studenti e li lascia liberi di andare a chiedere il proprio caffè.
 
 > Osservazione 3: quanto tempo impiega la barista a preparare un caffè?
-> Osservazione 4: quanto tempo impiega il primo studente ad essere servito? Quanto impiegeranno il secondo ed il terzo?
+> Osservazione 4: quanto tempo impiega il primo studente ad essere servito? Quanto impiegheranno il secondo ed il terzo?
 > Osservazione 5: in che ordine sono stati serviti gli studenti? Chi è stato servito prima, il primo che si è messo in fila o l'ultimo?
 > Osservazione 6: riusciamo a prevedere quanto tempo impiegherà lo studente 5? Il 10? Riusciamo a dedurre una formula generale per calcolare il tempo di attesa?
 
 Attenzione, arriva il preside! Anche lui vuole un caffè! Che si fa? Ovviamente gli studenti, che si sentono già in colpa per stare al bar invece che in classe, lo fanno passare avanti... lui apprezza, la sosta al bar è salva!
 
-> Osservazione 7: è giusto aver dato la precenza al preside? 
+> Osservazione 7: è giusto aver dato la precedenza al preside? 
 > Osservazione 8: cosa fa la barista dopo aver servito l'ultimo caffè?
 
 Ora però si è creata un ingiustizia: alcuni hanno avuto il loro caffè e alcuni no! Purtroppo è ora di rientrare in classe, non c'è tempo a sufficienza perchè tutti gli studenti abbiano il proprio caffè. Pazienza, sarà per la prossima volta.
 
 > Osservazione 9: Come il bar della scuola avrebbe dovuto gestire la situazione di un'intera classe che vuole il proprio caffè, in modo da rendere più basso possibile il tempo di attesa?
 
-Prima di andare però facciamo uno scherzo allo studente più antipatico della scuola che vediamo sopraggiugnere proprio in questo momento. Anche lui vuole il caffè! Allora al diavolo la fretta, tutti quanti mettiamoci in fila a chiedere un caffè. Anche chi l'ha già avuto... così lo scherzo sarà più divertente!
+Prima di andare però facciamo uno scherzo allo studente più antipatico della scuola che vediamo sopraggiungere proprio in questo momento. Anche lui vuole il caffè! Allora al diavolo la fretta, tutti quanti mettiamoci in fila a chiedere un caffè. Anche chi l'ha già avuto... così lo scherzo sarà più divertente!
 
 > Osservazione 10: quanto tempo impiegherà lo studente antipatico ad avere il proprio caffè?
 
