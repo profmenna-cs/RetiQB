@@ -14,9 +14,11 @@ Torna in cattedra e compila un biglietto. Su un lato scrive: richiesta per il bi
 
 ---
 
-Avendo già svolto l'attività "cioccolatini in classe", già sappiamo che dovranno inviare il biglietto allo studente bibliotecario passandolo al compagno più vicino.
+## Preparazione
 
-:bulb: *Attività preparatoria: ognuno deve valutare in anticipo a chi passare il biglietto per raggiungere uno dei bibliotecari (o il prof). Compilare una tabella di questo tipo*
+Avendo già svolto l'attività "cioccolatini in classe", già sappiamo che il biglietto deve essere recapitato al bibliotecario passandolo al compagno più vicino.
+
+:bulb: *Attività preparatoria: ognuno deve valutare in anticipo a chi può passare il biglietto per raggiungere uno dei bibliotecari (o il prof). Compilare una tabella di questo tipo*
 
 | Destinatario | Vicino | Direzione | Tempo stimato |
 |--------------|--------|-----------|---------------|
@@ -27,9 +29,11 @@ Avendo già svolto l'attività "cioccolatini in classe", già sappiamo che dovra
 
 ---
 
+## Inviamo richieste e risposte
+
 Il prof poi consegna il biglietto ad uno degli studenti in prima fila, chiedendo di farlo arrivare al bibliotecario, senza alzarsi.
 
-Lo studente dovrà inoltrarlo al bibliotecario, passandolo allo degli studenti seduti vicino a lui.
+Lo studente dovrà farlo arrivare al bibliotecario, passandolo allo studente che, secondo la tabella di routing, è stato scelto come percorso migliore per aggiungere il destinatario.
 
 A questo modo, di mano in mano, il biglietto raggiunge il bibliotecario, il quale prepara il libro e lo invia al destinatario, indicandone il nome sul biglietto.
 
