@@ -37,6 +37,10 @@ Prima di andare però facciamo uno scherzo allo studente più antipatico della s
 
 > Osservazione 10: quanto tempo impiegherà lo studente antipatico ad avere il proprio caffè?
 
+Rientriamo infine in classe. Il prof ha offerto un caffè a tutti, ma si è dimenticato di sé stesso. Chiede ad uno studente di tornare al bar ad ordinarne uno per suo conto.
+
+> Osservazione 11: 
+
 ## Fuori di metafora
 
 La barista ha svolto il ruolo di server:
@@ -53,7 +57,11 @@ Quando è arrivato il preside, la *strategia* per la gestione della coda è stat
 
 Il bar della scuola potrebbe funzionare in modo più rapido aumentando il numero di baristi: raddoppiandone il numero si dimezza il tempo di attesa, anche se andrà a raddoppiare il costo di gestione del bar. Un servizio può essere dunque fornito in modo più rapido aumentando il numero di server e distribuendo i client in ingresso sui server disponibili. Un nuovo client verrà inviato al server con la coda di attesa più corta.
 
-## il Denial of Service
+## Il DoS: Denial of Service!
 
-Lo scherzo combinato allo studente antipatico è una metafora dell'attacco DOS, con cui dei client maliziosi rendono un server irreperibile inviando un numero eccessivo di richieste che non è in grado di gestire. Un client innocente che volesse inviare una richiesta a questo server, vedrà la propria richiesta restare in attesa per un tempo indefinito, trovando il server indaffarato a gestire le richieste dei client maliziosi.
+Lo scherzo combinato allo studente antipatico è una metafora dell'attacco DOS, con cui dei client maliziosi rendono un server irreperibile inviando un numero eccessivo di richieste, che il server non è in grado di gestire. Un client innocente che volesse inviare una richiesta a questo server vedrà la propria richiesta restare in attesa per un tempo indefinito, trovando il server impegnato a gestire le richieste dei client maliziosi. Di fatto, il client non vedrà mai una risposta alla propria richiesta. Il servizio che ha richiesto gli viene negato: da qui il nome di questa tipologia di attacco.
+
+# Reti di computer
+
+L'ultimo momento dell'attività, ossia il momento in cui il docente invia uno studente ad ordinare un altro caffè, ci fornisce un esempio della motivazione alla base dell'invenzione delle reti di computer. Il docente deve inviare una richiesta ad un barista che si trova in un'altra ala dell'Istituto: allo stesso modo, le reti di computer sono state inventate per consentire ad un programma client di inviare richieste ad un server collocato su un altro computer: nella stessa stanza, nello stesso edificio, o altrove nel mondo.
 
